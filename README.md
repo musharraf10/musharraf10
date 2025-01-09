@@ -36,16 +36,19 @@ Hello, I'm Shaik Musharaf, a passionate and motivated **Information Technology**
   - Relevant coursework: Data Structures, Algorithms, Web Development, Python 
 
 ## 🚀 Projects
+### 1. **Video Call Application**
+   - **Tech**: ReactJS, Node.js, Socket.IO, WebRTC
+   - Developed a real-time video calling platform with chat, screen sharing, and meeting history storage.
    
-### 1. **Online Hostel Booking System**
+### 2. **Online Hostel Booking System**
    - **Tech**: MERN stack (MongoDB, Express.js, React, Node.js)
    - Built a full-stack web application for seamless hostel booking and management.
    
-### 2. **Attendance Management System**
+### 3. **Attendance Management System**
    - **Tech**: HTML, CSS, JavaScript, MySQL
    - Developed a web-based system to track student attendance efficiently.
    
-### 3. **Mini Projects**
+### 4. **Mini Projects**
    - **Weather App**: Built using React components to display live weather information.
    - **Simon's Game**: A browser game created using HTML, CSS, and JavaScript.
 
