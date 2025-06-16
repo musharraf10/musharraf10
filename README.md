@@ -1,78 +1,21 @@
- ## Hi there 👋
-
-<!--
-**musharraf10/musharraf10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💫 About Me:
+Hi there 👋<br><br>*musharraf10/musharraf10* is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.<br><br>Here are some ideas to get you started:<br><br>- 🔭 I’m currently working on ...<br>- 🌱 I’m currently learning ...<br>- 👯 I’m looking to collaborate on ...<br>- 🤔 I’m looking for help with ...<br>- 💬 Ask me about ...<br>- 📫 How to reach me: ...<br>- 😄 Pronouns: ...<br>- ⚡ Fun fact: ...<br><br><br>Shaik Musharaf<br><br>👋 Introduction<br><br>Hello, I'm Shaik Musharaf, a passionate and motivated **Information Technology** graduate with a strong interest in software development, problem-solving, and emerging technologies. My journey in tech has been marked by a focus on learning and building projects that solve real-world problems using modern tech stacks.<br><br>💻 Technical Skills<br>- Languages: Python, Java, JavaScript<br>- Web Technologies: HTML, CSS, React, Node.js, Express.js<br>- Databases: MongoDB, MySQL<br>- Frameworks: MERN stack, basic React components<br>- Tools: Git, Visual Studio Code, Postman, etc.<br><br>🎓 Education<br>- B.Tech in Information Technology (2024)<br>- Relevant coursework: Data Structures, Algorithms, Web Development, Python <br><br>🚀 Projects<br>1. Video Call Application<br>   - Tech: ReactJS, Node.js, Socket.IO, WebRTC<br>   - Developed a real-time video calling platform with chat, screen sharing, and meeting history storage.<br>   <br>2. Online Hostel Booking System<br>   - Tech: MERN stack (MongoDB, Express.js, React, Node.js)<br>   - Built a full-stack web application for seamless hostel booking and management.<br>   <br>3. Attendance Management System<br>   - Tech: HTML, CSS, JavaScript, MySQL<br>   - Developed a web-based system to track student attendance efficiently.<br>   <br>4. Mini Projects<br>   - Weather App: Built using React components to display live weather information.<br>   - Simon's Game: A browser game created using HTML, CSS, and JavaScript.<br><br>🌱 Current Learning Focus<br>I am currently honing my problem-solving skills and other advanced algorithms. I am preparing for opportunities at companies and continuously striving to expand my knowledge of data structures, MERN stack <br><br>🏅 Achievements<br>- Conducted a Web Development Workshop for juniors during my 3rd year of BTech, sharing knowledge and practical skills on building websites.<br>  <br>📈 Goals<br>- To continuously grow in the tech industry by contributing to innovative projects and collaborating with talented teams.<br><br>🏏 Interests & Hobbies<br>- Cricket: Watching and playing in my free time.<br>- Sudoku: I enjoy solving puzzles that challenge my logical thinking.<br>- Cooking: Experimenting with different recipes and helping my parents in the kitchen.<br>- Movies: Relaxing by watching movies.<br><br>Feel free to reach out if you'd like to collaborate on projects, discuss problem-solving approaches, or share insights about technology!
 
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/asur.musharraf10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/skmusharaf01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:skmusharaf1241@gmail.com) 
 
-# Shaik Musharaf
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=musharraf10&theme=default&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=musharraf10&theme=default&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=musharraf10&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 👋 Introduction
-
-Hello, I'm Shaik Musharaf, a passionate and motivated **Information Technology** graduate with a strong interest in software development, problem-solving, and emerging technologies. My journey in tech has been marked by a focus on learning and building projects that solve real-world problems using modern tech stacks.
-
-## 💻 Technical Skills
-- **Languages**: Python, Java, JavaScript
-- **Web Technologies**: HTML, CSS, React, Node.js, Express.js
-- **Databases**: MongoDB, MySQL
-- **Frameworks**: MERN stack, basic React components
-- **Tools**: Git, Visual Studio Code, Postman, etc.
-
-## 🎓 Education
-- **B.Tech in Information Technology** (2024)
-  - Relevant coursework: Data Structures, Algorithms, Web Development, Python 
-
-## 🚀 Projects
-### 1. **Video Call Application**
-   - **Tech**: ReactJS, Node.js, Socket.IO, WebRTC
-   - Developed a real-time video calling platform with chat, screen sharing, and meeting history storage.
-   
-### 2. **Online Hostel Booking System**
-   - **Tech**: MERN stack (MongoDB, Express.js, React, Node.js)
-   - Built a full-stack web application for seamless hostel booking and management.
-   
-### 3. **Attendance Management System**
-   - **Tech**: HTML, CSS, JavaScript, MySQL
-   - Developed a web-based system to track student attendance efficiently.
-   
-### 4. **Mini Projects**
-   - **Weather App**: Built using React components to display live weather information.
-   - **Simon's Game**: A browser game created using HTML, CSS, and JavaScript.
-
-## 🌱 Current Learning Focus
-I am currently honing my problem-solving skills and other advanced algorithms. I am preparing for opportunities at companies and continuously striving to expand my knowledge of data structures, MERN stack 
-
-## 🏅 Achievements
-- Conducted a **Web Development Workshop** for juniors during my 3rd year of BTech, sharing knowledge and practical skills on building websites.
-  
-## 📈 Goals
-- To continuously grow in the tech industry by contributing to innovative projects and collaborating with talented teams.
-
-## 🏏 Interests & Hobbies
-- **Cricket**: Watching and playing in my free time.
-- **Sudoku**: I enjoy solving puzzles that challenge my logical thinking.
-- **Cooking**: Experimenting with different recipes and helping my parents in the kitchen.
-- **Movies**: Relaxing by watching movies.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=musharraf10&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=musharraf10&icon=10&color=0)](https://visitcount.itsvg.in)
 
-Feel free to reach out if you'd like to collaborate on projects, discuss problem-solving approaches, or share insights about technology!
-
-**Connect with me:**
-- [Twitter](https://x.com/SMusharaf83689)
-- [GitHub](https://github.com/musharraf10)
-  
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
