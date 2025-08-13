@@ -97,9 +97,13 @@
 <!-- Back to Top Button -->
 <p align="center">
   <a href="#top">
-    <img src="https://img.shields.io/badge/Back%20to%20Top-00F7FF?style=for-the-badge" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">
+    <img src="https://img.shields.io/badge/Back%20to%20Top-00F7FF?style=for-the-badge&logoColor=000000" 
+         style="transition: transform 0.3s;" 
+         onmouseover="this.style.transform='scale(1.1)';" 
+         onmouseout="this.style.transform='scale(1)';">
   </a>
 </p>
+
 
 <!-- Footer Wave Animation -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6EE7B7&height=100&section=footer&width=100%" style="width: 100%; display: block;" />
