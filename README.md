@@ -71,7 +71,7 @@
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=musharraf10&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=musharraf10&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=musharraf10&short_numbers=true&date_format=j%20M%5B%20Y%5D" />
 </p>  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musharraf10&layout=compact&theme=tokyonight&hide_border=true" />
