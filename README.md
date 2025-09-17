@@ -5,11 +5,11 @@
   </h1>
 </div>
 
-## 🚀 About Me  
-💡 **Information Technology Graduate (2024)** passionate about crafting solutions that simplify life.  
-💻 Skilled in solving real-world challenges with **Java, Python, JavaScript, MERN Stack**, and modern frameworks.  
-📚 Currently honing **DSA skills** and diving into **system design** for scalable applications.  
-🎯 **Goal**: Become a **high-impact software engineer** driving innovative projects.
+## 👤 About Me  
+- **Information Technology Graduate (2024)** passionate about crafting solutions that simplify life.  
+- Skilled in solving real-world challenges with **Java, Python, JavaScript, MERN Stack**, and modern frameworks.  
+- Currently honing **DSA skills** and diving into **system design** for scalable applications.  
+- **Goal**: Become a **high-impact software engineer** driving innovative projects.
 
 ---
 
