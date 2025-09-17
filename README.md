@@ -1,7 +1,7 @@
 <!-- Header with Gradient Background -->
 <div align="center" style="background: linear-gradient(135deg, #00F7FF, #6EE7B7); padding: 20px; border-radius: 10px;">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=000000&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Shaik+Musharaf;+Recent+Graduate+%7C+Problem+Solver;Passionate+about+Innovation;Welcome+to+My+GitHub!">
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=000000&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Shaik+Musharaf;Recent+Graduate+%7C+Problem+Solver;Passionate+about+Innovation;Welcome+to+My+GitHub!">
   </h1>
 </div>
 
