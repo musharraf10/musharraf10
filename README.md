@@ -6,11 +6,7 @@
 </div>
 
 ## 👤 About Me  
-- **Information Technology Graduate (2024)** passionate about crafting solutions that simplify life.  
-- Skilled in solving real-world challenges with **Java, Python, JavaScript, MERN Stack**, and modern frameworks.  
-- Currently honing **DSA skills** and diving into **system design** for scalable applications.  
-- **Goal**: Become a **high-impact software engineer** driving innovative projects.
-
+Hi, my name is **Shaik Musharaf**. I completed my B.Tech in **Information Technology** in **_2024_**. During my 4th year, I joined a **MERN Stack course**. I completed my course successfully and I did projects; in every project, I explored new things like WebSockets, payment gateways, and authentication methods. Every project taught me a new thing. And also, I did a Java with DSA course at Apna College. I am well aware of DSA concepts. When it comes to my work experience, to be honest, I don't have any real-time project experience, but I did complex projects. I am doing freelance at Scale AI for an AI data labeling role. Currently, I am looking for a backend opportunity (Node.js). I know the complete frontend also, but I need AI assistance. This is all about me. **Thank you 🙏**
 ---
 
 ## 🛠 Tech Stack  
