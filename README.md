@@ -55,7 +55,7 @@ I’m **Shaik Musharaf**, a Full-Stack Developer who enjoys turning ideas into r
 | **FocusVault** | Productivity platform for structured study workflows, streak tracking, and progress insights. | React, Node.js, JWT Auth, Analytics Dashboard | [Live](https://focusvault.netlify.app/login) |
 | **Zoom Clone** | Real-time video communication app with 1:1/group calling and collaboration features. | WebRTC, Socket.IO, React, Express | [Live](https://mvideofrontend.onrender.com/) |
 | **Collaborative Notes** | Multi-user live notes workspace for teams with low-latency syncing. | React, Node.js, Socket.IO, MongoDB | [Live](https://collaborative-notes-1eyv.onrender.com/) |
-| **NoorFit** | Fitness-first product concept focused on engagement, structure, and retention UX. | UI/UX, Component Architecture, Responsive Design | [Preview](#-project-roadmap) |
+| **NoorFit** | Fitness-first product concept focused on engagement, structure, and retention UX. | UI/UX, Component Architecture, Responsive Design | [Preview](https://noorfit.netlify.app/) |
 
 ### 📌 Project Roadmap
 - Add dedicated case-study pages for each product with architecture diagrams, API flow, and design decisions.
