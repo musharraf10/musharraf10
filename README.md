@@ -52,6 +52,7 @@ I’m **Shaik Musharaf**, a Full-Stack Developer who enjoys turning ideas into r
 
 | Project | What it does | Tech Highlights | Live Demo |
 |---|---|---|---|
+| **Qazi Office Management System** ⭐ | End-to-end digital platform for Qazi Offices to manage Nikah cases, generate professional marriage certificates, manage assistants, maintain office records, preview, print, and reprint certificates through a streamlined workflow. | React, Node.js, Express, MongoDB, JWT, Puppeteer, Tailwind CSS | [Live](https://qazisystem.netlify.app/) • [GitHub](https://github.com/musharraf10/certificate_generator) |
 | **FocusVault** | Productivity platform for structured study workflows, streak tracking, and progress insights. | React, Node.js, JWT Auth, Analytics Dashboard | [Live](https://focusvault.netlify.app/login) |
 | **Zoom Clone** | Real-time video communication app with 1:1/group calling and collaboration features. | WebRTC, Socket.IO, React, Express | [Live](https://mvideofrontend.onrender.com/) |
 | **Collaborative Notes** | Multi-user live notes workspace for teams with low-latency syncing. | React, Node.js, Socket.IO, MongoDB | [Live](https://collaborative-notes-1eyv.onrender.com/) |
@@ -65,9 +66,10 @@ I’m **Shaik Musharaf**, a Full-Stack Developer who enjoys turning ideas into r
 ---
 
 ## 🎯 Current Focus
-- Building polished products with **clean animations**, **strong UX**, and **accessible interfaces**
-- Improving **backend architecture**, caching strategy, and API performance
-- Shipping production-ready full-stack apps with practical real-world use cases
+- Building production-ready **full-stack business applications**
+- Designing scalable **backend architecture** and secure REST APIs
+- Developing digital solutions that solve real-world operational workflows
+- Improving API performance, clean architecture, and user experience
 
 ---
 
@@ -77,6 +79,7 @@ If you’re hiring for **Backend Developer** or **Full-Stack Developer** roles, 
 - 📧 Email: **skmusharaf01@gmail.com**
 - 💼 LinkedIn: **[linkedin.com/in/skmusharaf01](https://linkedin.com/in/skmusharaf01)**
 - 📸 Instagram: **[instagram.com/asur.musharaf](https://www.instagram.com/asur.musharaf/)**
+- 🪪 Portfolio: **[Shaik Musharaf's Portfolio](https://skmusharaf.netlify.app)**
 
 ---
 
